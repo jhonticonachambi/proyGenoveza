@@ -1,0 +1,12 @@
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\bin\Debug\ProyectoFinal.Entidad.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\bin\Debug\ProyectoFinal.Entidad.pdb
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csprojAssemblyReference.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Entidad\bin\Debug\ProyectoFinal.Entidad.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Entidad\bin\Debug\ProyectoFinal.Entidad.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csproj.AssemblyReference.cache
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.pdb
